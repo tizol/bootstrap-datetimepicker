@@ -43,4 +43,10 @@ If you have an urgent request, bug or need installation help, please contact me 
 
 ## [Installation instructions](http://eonasdan.github.io/bootstrap-datetimepicker/Installing/)
 
+Install using [npm](https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker)
+```bash
+npm install eonasdan-bootstrap-datetimepicker 
+```
+
+
 ## [Change Log](http://eonasdan.github.io/bootstrap-datetimepicker/Changelog/)
